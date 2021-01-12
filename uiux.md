@@ -73,4 +73,3 @@ Flutter when rebuilding widgets and might affect your performance.
 * Use of widgets which will handle screen overflows like Expanded to avoid 
 overflow errors.
 ```
-for flutter
